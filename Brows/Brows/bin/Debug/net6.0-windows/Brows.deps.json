@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Brows/1.0.0": {
+        "dependencies": {
+          "Awesomium.NetWrapper.Unofficial": "1.7.5",
+          "Awesomium.Windows.Forms.Unofficial": "1.7.5",
+          "MVVM.awesomium": "0.9.9"
+        },
+        "runtime": {
+          "Brows.dll": {}
+        }
+      },
+      "Awesomium.NetWrapper.Unofficial/1.7.5": {
+        "runtime": {
+          "lib/Awesomium.Core.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          },
+          "lib/Awesomium.Windows.Controls.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          },
+          "lib/Awesomium.Windows.Forms.dll": {
+            "assemblyVersion": "1.7.5.0",
+            "fileVersion": "1.7.5.0"
+          }
+        }
+      },
+      "Awesomium.Windows.Forms.Unofficial/1.7.5": {},
+      "MVVM.awesomium/0.9.9": {
+        "dependencies": {
+          "Unofficial.Awesomium.Complete": "1.7.4.2"
+        },
+        "runtime": {
+          "lib/MVVMAwesomium.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unofficial.Awesomium.Complete/1.7.4.2": {}
+    }
+  },
+  "libraries": {
+    "Brows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Awesomium.NetWrapper.Unofficial/1.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nr9fjCU4+b8UTk2X+bNpibNqRAKe8O4W7kLH1aMQE9VRqa5PxkEDHQuM+xmckRvRaoOzq08SMsTlAodnH2A6hA==",
+      "path": "awesomium.netwrapper.unofficial/1.7.5",
+      "hashPath": "awesomium.netwrapper.unofficial.1.7.5.nupkg.sha512"
+    },
+    "Awesomium.Windows.Forms.Unofficial/1.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PuBS4sO9cOOJByvv5zx1ow9s75CEs2mbo23pPHiV3rJtvZ8dLYT4ohLH1p8H3D+d/mt1k6Agxg04X1yLCAlJPw==",
+      "path": "awesomium.windows.forms.unofficial/1.7.5",
+      "hashPath": "awesomium.windows.forms.unofficial.1.7.5.nupkg.sha512"
+    },
+    "MVVM.awesomium/0.9.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Lr+lxGaO4JGYzf9FSAzV32hVyMS980bbjzg6z7o3Nl/LcXP2g0XXp+pQRrJm+0f0eXOaxcsBL18j/AFNuI0U8w==",
+      "path": "mvvm.awesomium/0.9.9",
+      "hashPath": "mvvm.awesomium.0.9.9.nupkg.sha512"
+    },
+    "Unofficial.Awesomium.Complete/1.7.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CCZvE444JoL8/D54XD66vKc4wWjAKwkDjgns4hmZvA5svg6w2F5A2SGgnlxscnvy0Fh9zFLUk6sjJ+L0SJ+DvA==",
+      "path": "unofficial.awesomium.complete/1.7.4.2",
+      "hashPath": "unofficial.awesomium.complete.1.7.4.2.nupkg.sha512"
+    }
+  }
+}

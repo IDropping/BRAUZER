@@ -1,0 +1,48 @@
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.exe
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.deps.json
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.runtimeconfig.json
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.pdb
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.Form1.resources
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.Properties.Resources.resources
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.AssemblyInfo.cs
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.CopyComplete
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\refint\Brows.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.pdb
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.genruntimeconfig.cache
+C:\Users\admin\Desktop\ПП\Brows\Brows\obj\Debug\net6.0-windows\ref\Brows.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.dll.config
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Awesomium.Core.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Awesomium.Windows.Controls.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\Awesomium.Windows.Forms.dll
+C:\Users\admin\Desktop\ПП\Brows\Brows\bin\Debug\net6.0-windows\MVVMAwesomium.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.exe
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.dll.config
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.deps.json
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.runtimeconfig.json
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Brows.pdb
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Awesomium.Core.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Awesomium.Windows.Controls.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\Awesomium.Windows.Forms.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\bin\Debug\net6.0-windows\MVVMAwesomium.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.AssemblyReference.cache
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.Form1.resources
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.Properties.Resources.resources
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.GenerateResource.cache
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.GeneratedMSBuildEditorConfig.editorconfig
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.AssemblyInfoInputs.cache
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.AssemblyInfo.cs
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.CoreCompileInputs.cache
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.csproj.CopyComplete
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\refint\Brows.dll
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.pdb
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\Brows.genruntimeconfig.cache
+E:\Флэха за 23 год\Новая папка\ПП\Brows\Brows\obj\Debug\net6.0-windows\ref\Brows.dll
